@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonathanaudu007
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning PHP/LARAVEL
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me https://github.com/Jonathanaudu007/Jonathanaudu007
 
